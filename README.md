@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Engineering Student passionate about building impactful digital products
-- 🌱 Currently mastering **Full Stack Development (MERN + Django)**
+- 🌱 Currently mastering **Full Stack Development**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 💡 Interested in solving real-world problems through scalable applications
 - 📫 Reach me at: **0243roshan@gmail.com**
@@ -14,7 +14,7 @@
 
 ## 🎯 Current Focus
 - 🔥 Building production-ready full stack projects
-- 📚 Strengthening problem-solving skills (LeetCode & CodeChef)
+- 📚 Strengthening problem-solving skills (CodeChef)
 - ⚡ Learning system design fundamentals
 - 🚀 Preparing for Software Developer roles
 
