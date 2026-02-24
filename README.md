@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Gowda</h1>
-<h3 align="center">Full Stack Developer | Engineering Code, Culture & Creativity</h3>
+<h3 align="center">Engineering the intersection of code, culture & creativity</h3>
 
 ---
 
@@ -41,15 +41,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshangowdas&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshangowdas&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=roshangowdas&theme=tokyonight"/>
 </p>
 
 ---
