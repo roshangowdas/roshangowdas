@@ -38,6 +38,13 @@
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&theme=tokyo-night"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/roshan-gowda-s-378343283" target="_blank">
