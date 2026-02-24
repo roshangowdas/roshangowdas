@@ -20,18 +20,14 @@
 
 ---
 
-## 💼 Featured Projects
-<p align="center">
-
-<a href="https://github.com/roshangowdas/repository-name-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshangowdas&repo=repository-name-1&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/roshangowdas/repository-name-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshangowdas&repo=repository-name-2&theme=tokyonight" />
-</a>
-
-</p>
+## 💼 What I’m Interested In
+- 🌐 Web Application Development
+- 🤖 Backend Architecture & APIs
+- 🗄️ Database Design & Optimization
+- 🧩 Competitive Programming
+- 🏗️ Scalable System Design
+- 🎨 UI/UX & User-Centered Development
+- 🧠 Tech + Creativity Based Projects
 
 ---
 
