@@ -1,17 +1,44 @@
 <h1 align="center">Hi 👋, I'm Roshan Gowda</h1>
-<h3 align="center">Engineering the intersection of code, culture & creativity</h3>
+<h3 align="center">Full Stack Developer | Engineering Code, Culture & Creativity</h3>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **Full Stack Development (MERN + Django)**
-- 💻 Passionate about building scalable web applications
-- 🧠 Strong interest in Data Structures & Problem Solving
+## 🚀 About Me
+- 🎓 Engineering Student passionate about building impactful digital products
+- 🌱 Currently mastering **Full Stack Development (MERN + Django)**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 💡 Interested in solving real-world problems through scalable applications
 - 📫 Reach me at: **0243roshan@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+## 🎯 Current Focus
+- 🔥 Building production-ready full stack projects
+- 📚 Strengthening problem-solving skills (LeetCode & CodeChef)
+- ⚡ Learning system design fundamentals
+- 🚀 Preparing for Software Developer roles
+
+---
+
+## 💼 What I’m Interested In
+- 🌐 Web Application Development
+- 🤖 Backend Architecture & APIs
+- 🗄️ Database Design & Optimization
+- 🧩 Competitive Programming
+- 🏗️ Scalable System Design
+- 🎨 UI/UX & User-Centered Development
+- 🧠 Tech + Creativity Based Projects
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,django,git,github" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/roshan-gowda-s-378343283" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -32,29 +59,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,django" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=roshangowdas&theme=tokyonight"/>
-</p>
-
----
-
-### 💡 Quote
-> "Consistency builds mastery. Code daily, improve endlessly."
+## 💡 Developer Philosophy
+> “Build with purpose. Learn continuously. Improve every day.”
 
 ---
