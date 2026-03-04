@@ -42,22 +42,6 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/roshan-gowda-s-378343283" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://instagram.com/roshan__gowda" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-
-<a href="https://leetcode.com/roshangowda" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-</a>
-</p>
-
----
-
 ## 💡 Developer Philosophy
 > “Build with purpose. Learn continuously. Improve every day.”
 
