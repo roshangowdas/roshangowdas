@@ -23,14 +23,13 @@
 - 🌐 Web Application Development
 - 🤖 Backend Architecture & APIs
 - 🗄️ Database Design & Optimization
-- 🎨 UI/UX & User-Centered Development
 - 🧠 Tech + Creativity Based Projects
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,django,git,github" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,github" />
 </p>
 
 ---
