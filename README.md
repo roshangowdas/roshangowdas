@@ -4,15 +4,14 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,c++,nodejs,express,mongodb,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,cpp,nodejs,express,mongodb,github" />
 </p>
 
 ---
 
-
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&theme=tokyo-night"/>
 </p>
 
 ---
@@ -23,6 +22,6 @@
 ---
 
 ## 📫 Connect with Me
-* 📧 Email: 0243roshan@gmail.com[cite: 1]
-* 📞 Phone: +91 6366309511[cite: 1]
-* 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-gowda-s-378343283/)
+- 📧 Email: [0243roshan@gmail.com](mailto:0243roshan@gmail.com)  
+- 📞 Phone: [+91 6366309511](tel:+916366309511)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/roshan-gowda-s-378343283/)
