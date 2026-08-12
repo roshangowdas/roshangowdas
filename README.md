@@ -23,5 +23,4 @@
 
 ## 📫 Connect with Me
 - 📧 Email: [0243roshan@gmail.com](mailto:0243roshan@gmail.com)  
-- 📞 Phone: [+91 6366309511](tel:+916366309511)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/roshan-gowda-s-378343283/)
