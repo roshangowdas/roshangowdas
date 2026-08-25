@@ -4,19 +4,19 @@
 <!--        TOP BANNER         -->
 <!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:120000,75:ff0000,100:050505&height=210&section=header&text=ROSHAN%20GOWDA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,45:001B3D,75:007BFF,100:050B18&height=210&section=header&text=ROSHAN%20GOWDA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2500&pause=800&color=FF2020&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;AI+%26+ML+ENTHUSIAST;PROBLEM+SOLVER;BUILDING+REAL+WORLD+APPLICATIONS" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2500&pause=800&color=00A8FF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;AI+%26+ML+ENTHUSIAST;PROBLEM+SOLVER;BUILDING+REAL+WORLD+APPLICATIONS" />
 
 <br><br>
 
 <!-- PROFILE BADGES -->
 
-<img src="https://komarev.com/ghpvc/?username=roshangowdas&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/roshangowdas?label=FOLLOWERS&style=for-the-badge&color=ff0000&labelColor=050505" />
-<img src="https://img.shields.io/github/stars/roshangowdas?label=STARS&style=for-the-badge&color=ff0000&labelColor=050505" />
+<img src="https://komarev.com/ghpvc/?username=roshangowdas&label=PROFILE+VIEWS&color=007BFF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/roshangowdas?label=FOLLOWERS&style=for-the-badge&color=007BFF&labelColor=050B18" />
+<img src="https://img.shields.io/github/stars/roshangowdas?label=STARS&style=for-the-badge&color=007BFF&labelColor=050B18" />
 
 </div>
 
@@ -95,19 +95,19 @@ At the moment, I am focused on becoming a stronger software engineer by continuo
 <div align="center">
 
 <a href="https://github.com/roshangowdas">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-050B18?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/">
-<img src="https://img.shields.io/badge/LINKEDIN-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-050B18?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.npmjs.com/~roshan__gowda">
-<img src="https://img.shields.io/badge/NPM-FF0000?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-007BFF?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 
 </div>
@@ -122,7 +122,7 @@ At the moment, I am focused on becoming a stronger software engineer by continuo
 <tr>
 <td width="8%" align="center">
 
-<img src="https://img.icons8.com/ios-filled/50/ff0000/code.png" width="35"/>
+<img src="https://img.icons8.com/ios-filled/50/00A8FF/code.png" width="35"/>
 
 </td>
 
@@ -145,12 +145,12 @@ Every project is an opportunity to learn something new, solve a problem and beco
 <br>
 
 <!-- ========================= -->
-<!--     DEVELOPER MINDSET     -->
+<!--      DEVELOPER MINDSET    -->
 <!-- ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DEVELOPER%20MINDSET&fontSize=28&fontColor=ff2020&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DEVELOPER%20MINDSET&fontSize=28&fontColor=00A8FF&animation=fadeIn" />
 
 </div>
 
@@ -161,7 +161,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 
 ### BUILD WITH PURPOSE
 
-<img src="https://img.icons8.com/ios-filled/50/ff0000/rocket.png" width="35"/>
+<img src="https://img.icons8.com/ios-filled/50/00A8FF/rocket.png" width="35"/>
 
 </td>
 
@@ -169,7 +169,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 
 ### LEARN CONTINUOUSLY
 
-<img src="https://img.icons8.com/ios-filled/50/ff0000/book.png" width="35"/>
+<img src="https://img.icons8.com/ios-filled/50/00A8FF/book.png" width="35"/>
 
 </td>
 
@@ -177,7 +177,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 
 ### SOLVE REAL PROBLEMS
 
-<img src="https://img.icons8.com/ios-filled/50/ff0000/idea.png" width="35"/>
+<img src="https://img.icons8.com/ios-filled/50/00A8FF/idea.png" width="35"/>
 
 </td>
 
@@ -185,7 +185,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 
 ### IMPROVE EVERY DAY
 
-<img src="https://img.icons8.com/ios-filled/50/ff0000/positive-dynamic.png" width="35"/>
+<img src="https://img.icons8.com/ios-filled/50/00A8FF/positive-dynamic.png" width="35"/>
 
 </td>
 
@@ -209,7 +209,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 <br>
 
 <!-- ========================= -->
-<!--     CONTRIBUTION GRAPH    -->
+<!--    CONTRIBUTION GRAPH     -->
 <!-- ========================= -->
 
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2>
@@ -217,8 +217,9 @@ Every project is an opportunity to learn something new, solve a problem and beco
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-dark.svg">
 
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake.svg">
@@ -226,7 +227,9 @@ srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/githu
 <img
 alt="GitHub contribution snake animation"
 src="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake.svg"
-width="100%"> </picture>
+width="100%">
+
+</picture>
 
 </div>
 
@@ -239,42 +242,49 @@ width="100%"> </picture>
 <h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&hide_border=true&bg_color=050b12&title_color=ff2020&text_color=ffffff&icon_color=ff2020&include_all_commits=true&count_private=true" alt="Roshan's Github Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&hide_border=true&bg_color=050b12&title_color=ff2020&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  </p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&hide_border=true&bg_color=050B18&title_color=00A8FF&text_color=ffffff&icon_color=00A8FF&include_all_commits=true&count_private=true" alt="Roshan's Github Stats" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&hide_border=true&bg_color=050B18&title_color=00A8FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</p>
+
 </div>
 
 <br>
 
 <!-- ========================= -->
-<!--        STREAK STATS       -->
+<!--       STREAK STATS        -->
 <!-- ========================= -->
 
 <h2 align="center">🔥 GITHUB STREAK</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=roshangowdas&theme=dark&hide_border=true&background=050b12&ring=ff2020&fire=ff2020&currStreakLabel=ff2020" alt="GitHub Streak" width="70%" />
+
+<img src="https://streak-stats.demolab.com?user=roshangowdas&theme=dark&hide_border=true&background=050B18&ring=00A8FF&fire=00D9FF&currStreakLabel=00A8FF" alt="GitHub Streak" width="70%" />
+
 </div>
 
 <br>
 
 <!-- ========================= -->
-<!--      ACTIVITY GRAPH       -->
+<!--       ACTIVITY GRAPH      -->
 <!-- ========================= -->
 
 <h2 align="center">📈 CODING ACTIVITY</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&bg_color=050b12&color=ffffff&line=ff2020&point=ffffff&area=true&hide_border=true" alt="Coding Activity Graph" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&bg_color=050B18&color=ffffff&line=00A8FF&point=00D9FF&area=true&hide_border=true" alt="Coding Activity Graph" width="100%" />
+
 </div>
 
 <br>
 
 <!-- ========================= -->
-<!--     FEATURED PROJECTS     -->
+<!--      FEATURED PROJECTS    -->
 <!-- ========================= -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
@@ -357,11 +367,15 @@ Building practical AI-powered applications by combining modern web technologies 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-<img src="https://img.shields.io/badge/AI%20%26%20ML-FF0000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/FULL%20STACK-FF0000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-050B18?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-007BFF?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-050B18?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+
+<img src="https://img.shields.io/badge/FULL%20STACK-007BFF?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-050B18?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </div>
 
@@ -373,10 +387,10 @@ Building practical AI-powered applications by combining modern web technologies 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=3000&pause=1000&color=FF2020&center=true&vCenter=true&width=650&lines=BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+IMPROVING+%F0%9F%9A%80;THANKS+FOR+VISITING+MY+PROFILE!" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+IMPROVING+%F0%9F%9A%80;THANKS+FOR+VISITING+MY+PROFILE!" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:ff0000,100:050505&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:007BFF,100:050B18&height=120&section=footer" width="100%"/>
 
 </div>
