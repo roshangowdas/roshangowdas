@@ -1,3 +1,4 @@
+<h1 align="center">Welcome to Roshan's GitHub 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=220&section=header&text=Welcome%20to%20Roshan's%20GitHub&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
@@ -23,7 +24,7 @@
       📍 Bengaluru, Karnataka, India
     </td>
     <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/astronaut.gif" width="180" alt="Astronaut" />
+      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=500&q=80" width="100%" alt="Developer Setup" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
