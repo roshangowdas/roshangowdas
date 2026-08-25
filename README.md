@@ -12,10 +12,14 @@
 
 <br><br>
 
-<!-- PROFILE BADGES -->
+<!-- ========================= -->
+<!--       PROFILE BADGES      -->
+<!-- ========================= -->
 
 <img src="https://komarev.com/ghpvc/?username=roshangowdas&label=PROFILE+VIEWS&color=007BFF&style=for-the-badge" />
+
 <img src="https://img.shields.io/github/followers/roshangowdas?label=FOLLOWERS&style=for-the-badge&color=007BFF&labelColor=050B18" />
+
 <img src="https://img.shields.io/github/stars/roshangowdas?label=STARS&style=for-the-badge&color=007BFF&labelColor=050B18" />
 
 </div>
@@ -23,7 +27,7 @@
 <br>
 
 <!-- ========================= -->
-<!--          ABOUT            -->
+<!--           ABOUT           -->
 <!-- ========================= -->
 
 <table width="100%">
@@ -115,14 +119,18 @@ At the moment, I am focused on becoming a stronger software engineer by continuo
 <br><br>
 
 <!-- ========================= -->
-<!--          QUOTE            -->
+<!--           QUOTE           -->
 <!-- ========================= -->
 
 <table width="100%">
 <tr>
+
 <td width="8%" align="center">
 
-<img src="https://img.icons8.com/ios-filled/50/00A8FF/code.png" width="35"/>
+<img
+src="https://img.icons8.com/ios-filled/50/00A8FF/code.png"
+width="35"
+/>
 
 </td>
 
@@ -139,6 +147,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -150,7 +159,9 @@ Every project is an opportunity to learn something new, solve a problem and beco
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DEVELOPER%20MINDSET&fontSize=28&fontColor=00A8FF&animation=fadeIn" />
+<img
+src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DEVELOPER%20MINDSET&fontSize=28&fontColor=00A8FF&animation=fadeIn"
+/>
 
 </div>
 
@@ -159,33 +170,45 @@ Every project is an opportunity to learn something new, solve a problem and beco
 
 <td align="center">
 
-### BUILD WITH PURPOSE
+<h3>BUILD WITH PURPOSE</h3>
 
-<img src="https://img.icons8.com/ios-filled/50/00A8FF/rocket.png" width="35"/>
-
-</td>
-
-<td align="center">
-
-### LEARN CONTINUOUSLY
-
-<img src="https://img.icons8.com/ios-filled/50/00A8FF/book.png" width="35"/>
+<img
+src="https://img.icons8.com/ios-filled/50/00A8FF/rocket.png"
+width="35"
+/>
 
 </td>
 
 <td align="center">
 
-### SOLVE REAL PROBLEMS
+<h3>LEARN CONTINUOUSLY</h3>
 
-<img src="https://img.icons8.com/ios-filled/50/00A8FF/idea.png" width="35"/>
+<img
+src="https://img.icons8.com/ios-filled/50/00A8FF/book.png"
+width="35"
+/>
 
 </td>
 
 <td align="center">
 
-### IMPROVE EVERY DAY
+<h3>SOLVE REAL PROBLEMS</h3>
 
-<img src="https://img.icons8.com/ios-filled/50/00A8FF/positive-dynamic.png" width="35"/>
+<img
+src="https://img.icons8.com/ios-filled/50/00A8FF/idea.png"
+width="35"
+/>
+
+</td>
+
+<td align="center">
+
+<h3>IMPROVE EVERY DAY</h3>
+
+<img
+src="https://img.icons8.com/ios-filled/50/00A8FF/positive-dynamic.png"
+width="35"
+/>
 
 </td>
 
@@ -202,7 +225,9 @@ Every project is an opportunity to learn something new, solve a problem and beco
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,flask,fastapi,django,mongodb,mysql,postgresql,firebase,git,github,vscode,postman&perline=7" />
+<img
+src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,flask,fastapi,django,mongodb,mysql,postgresql,firebase,git,github,vscode,postman&perline=7"
+/>
 
 </div>
 
@@ -218,16 +243,21 @@ Every project is an opportunity to learn something new, solve a problem and beco
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-dark.svg">
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-dark.svg"
+/>
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake.svg">
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake.svg"
+/>
 
 <img
 alt="GitHub contribution snake animation"
 src="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake.svg"
-width="100%">
+width="100%"
+/>
 
 </picture>
 
@@ -243,27 +273,35 @@ width="100%">
 
 <div align="center">
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&hide_border=true&bg_color=050B18&title_color=00A8FF&text_color=ffffff&icon_color=00A8FF&include_all_commits=true&count_private=true" alt="Roshan's Github Stats" />
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&hide_border=true&bg_color=050B18&title_color=00A8FF&text_color=FFFFFF&icon_color=00D9FF&include_all_commits=true&count_private=true"
+alt="Roshan's GitHub Stats"
+width="48%"
+/>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&hide_border=true&bg_color=050B18&title_color=00A8FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&hide_border=true&bg_color=050B18&title_color=00A8FF&text_color=FFFFFF&langs_count=8"
+alt="Top Languages"
+width="48%"
+/>
 
 </div>
 
 <br>
 
 <!-- ========================= -->
-<!--       STREAK STATS        -->
+<!--       GITHUB STREAK       -->
 <!-- ========================= -->
 
 <h2 align="center">🔥 GITHUB STREAK</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=roshangowdas&theme=dark&hide_border=true&background=050B18&ring=00A8FF&fire=00D9FF&currStreakLabel=00A8FF" alt="GitHub Streak" width="70%" />
+<img
+src="https://streak-stats.demolab.com?user=roshangowdas&theme=dark&hide_border=true&background=050B18&ring=00A8FF&fire=00D9FF&currStreakLabel=00A8FF&sideLabels=FFFFFF&dates=FFFFFF"
+alt="GitHub Streak"
+width="70%"
+/>
 
 </div>
 
@@ -277,7 +315,11 @@ width="100%">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&bg_color=050B18&color=ffffff&line=00A8FF&point=00D9FF&area=true&hide_border=true" alt="Coding Activity Graph" width="100%" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&bg_color=050B18&color=FFFFFF&line=00A8FF&point=00D9FF&area=true&hide_border=true"
+alt="Roshan's Coding Activity Graph"
+width="100%"
+/>
 
 </div>
 
@@ -367,15 +409,25 @@ Building practical AI-powered applications by combining modern web technologies 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-050B18?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img
+src="https://img.shields.io/badge/DSA-050B18?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-007BFF?style=for-the-badge&logo=python&logoColor=white" />
+<img
+src="https://img.shields.io/badge/AI%20%26%20ML-007BFF?style=for-the-badge&logo=python&logoColor=white"
+/>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-050B18?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+<img
+src="https://img.shields.io/badge/CYBERSECURITY-050B18?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"
+/>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-007BFF?style=for-the-badge&logo=react&logoColor=white" />
+<img
+src="https://img.shields.io/badge/FULL%20STACK-007BFF?style=for-the-badge&logo=react&logoColor=white"
+/>
 
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-050B18?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img
+src="https://img.shields.io/badge/SYSTEM%20DESIGN-050B18?style=for-the-badge&logo=amazonaws&logoColor=white"
+/>
 
 </div>
 
@@ -387,10 +439,15 @@ Building practical AI-powered applications by combining modern web technologies 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+IMPROVING+%F0%9F%9A%80;THANKS+FOR+VISITING+MY+PROFILE!" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+IMPROVING+%F0%9F%9A%80;THANKS+FOR+VISITING+MY+PROFILE!"
+/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:007BFF,100:050B18&height=120&section=footer" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:007BFF,100:050B18&height=120&section=footer"
+width="100%"
+/>
 
 </div>
