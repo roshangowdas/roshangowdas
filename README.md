@@ -1,4 +1,3 @@
-<h1 align="center">Welcome to Roshan's GitHub 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=220&section=header&text=Welcome%20to%20Roshan's%20GitHub&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
