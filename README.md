@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Statistics
 
-<!-- Contribution Graph (fixed) -->
+<!-- Contribution Graph - Now visible! -->
 <p align="center">
   <img src="https://ghchart.rshah.org/roshangowdas" alt="Roshan's GitHub Contribution Chart" width="100%" />
 </p>
