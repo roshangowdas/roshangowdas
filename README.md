@@ -17,11 +17,15 @@
 <a href="https://github.com/roshangowdas">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/">
 <img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="mailto:0243roshan@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-C00000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -39,8 +43,7 @@
 <!-- ========================= -->
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency/32/000000/user-male-circle.png"/>
-  WHO AM I?
+  👨‍💻 WHO AM I?
 </h2>
 
 <table>
@@ -81,6 +84,7 @@ My development philosophy is simple:
 <br>
 
 <table>
+
 <tr>
 <td>💻 <b>Focus</b></td>
 <td>Full Stack Development</td>
@@ -100,6 +104,7 @@ My development philosophy is simple:
 <td>🎯 <b>Goal</b></td>
 <td>Become a strong Software Engineer</td>
 </tr>
+
 </table>
 
 </td>
@@ -121,19 +126,19 @@ My development philosophy is simple:
 
 <div align="center">
 
-### 💻 Languages
+<h3>💻 Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css"/>
 
 <br><br>
 
-### 🌐 Frameworks & Backend
+<h3>🌐 Frameworks & Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,nextjs"/>
 
 <br><br>
 
-### 🗄️ Database & Tools
+<h3>🗄️ Database & Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,git,github,vscode"/>
 
@@ -152,6 +157,7 @@ My development philosophy is simple:
 <h2 align="center">🔥 WHAT I DO</h2>
 
 <table align="center">
+
 <tr>
 
 <td align="center" width="33%">
@@ -162,8 +168,8 @@ My development philosophy is simple:
 
 <br><br>
 
-Build modern and responsive applications using React, Node.js,
-Express, MongoDB and other technologies.
+Build modern and responsive applications using React,
+Node.js, Express, MongoDB and other technologies.
 
 </td>
 
@@ -194,6 +200,7 @@ to improve logical thinking.
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -221,9 +228,13 @@ AI-powered smart food dispensing system.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/FastAPI-8B0000?style=flat-square&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-8B0000?style=flat-square&logo=fastapi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/ML-C00000?style=flat-square"/>
+
 </p>
 
 <p align="center">
@@ -242,9 +253,13 @@ Community resource sharing platform.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-8B0000?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-C00000?style=flat-square&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-8B0000?style=flat-square&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-C00000?style=flat-square&logo=mongodb&logoColor=white"/>
+
 </p>
 
 <p align="center">
@@ -267,8 +282,11 @@ Real-time security monitoring dashboard.
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/MERN-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Firebase-8B0000?style=flat-square&logo=firebase"/>
+
+<img src="https://img.shields.io/badge/Firebase-8B0000?style=flat-square&logo=firebase&logoColor=white"/>
+
 </p>
 
 </td>
@@ -283,8 +301,11 @@ technologies with intelligent systems.
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/AI-C00000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+
 </p>
 
 </td>
@@ -337,7 +358,11 @@ technologies with intelligent systems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&bg_color=050505&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true&custom_title=Roshan%20Gowda's%20Contribution%20Graph"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&bg_color=050505&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true&custom_title=Roshan%20Gowda%27s%20Contribution%20Graph"
+width="95%"
+alt="Roshan Gowda Contribution Graph"
+/>
 
 </div>
 
@@ -355,9 +380,17 @@ technologies with intelligent systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&hide_border=true&bg_color=050505&title_color=ff0000&text_color=ffffff&icon_color=ff0000&include_all_commits=true&count_private=true" height="180"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&hide_border=true&bg_color=050505&title_color=ff0000&text_color=ffffff&icon_color=ff0000&include_all_commits=true&count_private=true"
+height="180"
+alt="GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&hide_border=true&bg_color=050505&title_color=ff0000&text_color=ffffff" height="180"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&hide_border=true&bg_color=050505&title_color=ff0000&text_color=ffffff"
+height="180"
+alt="Top Languages"
+/>
 
 </div>
 
@@ -375,7 +408,10 @@ technologies with intelligent systems.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=roshangowdas&theme=dark&hide_border=true&background=050505&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa"/>
+<img
+src="https://streak-stats.demolab.com?user=roshangowdas&theme=dark&hide_border=true&background=050505&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa"
+alt="GitHub Streak"
+/>
 
 </div>
 
@@ -385,14 +421,18 @@ technologies with intelligent systems.
 
 <!-- ========================= -->
 
-<!--          FOOTER           -->
+<!--       PROFILE FOOTER      -->
 
 <!-- ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:160000,100:050505&height=120&section=footer"/>
+<h3>💻 BUILD • LEARN • IMPROVE 🚀</h3>
 
-### 💻 Building • Learning • Improving 🚀
+<p>
+Thanks for visiting my profile!
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:160000,100:050505&height=120&section=footer"/>
 
 </div>
