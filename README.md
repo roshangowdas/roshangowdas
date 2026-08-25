@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- ========================= -->
-
 <!--        TOP BANNER         -->
-
 <!-- ========================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:120000,75:ff0000,100:050505&height=210&section=header&text=ROSHAN%20GOWDA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
@@ -25,9 +23,7 @@
 <br>
 
 <!-- ========================= -->
-
 <!--          ABOUT            -->
-
 <!-- ========================= -->
 
 <table width="100%">
@@ -75,9 +71,7 @@ Currently, I am improving my skills in <b>DSA, AI, Cybersecurity, Backend Develo
 </p>
 
 <!-- ========================= -->
-
 <!--        DESCRIPTION        -->
-
 <!-- ========================= -->
 
 <p align="justify">
@@ -93,9 +87,7 @@ At the moment, I am focused on becoming a stronger software engineer by continuo
 <br>
 
 <!-- ========================= -->
-
-<!--       CONNECT WITH ME     -->
-
+<!--      CONNECT WITH ME      -->
 <!-- ========================= -->
 
 <h3 align="center">You Can Click Here</h3>
@@ -123,9 +115,7 @@ At the moment, I am focused on becoming a stronger software engineer by continuo
 <br><br>
 
 <!-- ========================= -->
-
 <!--          QUOTE            -->
-
 <!-- ========================= -->
 
 <table width="100%">
@@ -155,9 +145,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 <br>
 
 <!-- ========================= -->
-
-<!--       DEVELOPER MINDSET   -->
-
+<!--     DEVELOPER MINDSET     -->
 <!-- ========================= -->
 
 <div align="center">
@@ -207,9 +195,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 <br>
 
 <!-- ========================= -->
-
-<!--       TECH STACK           -->
-
+<!--         TECH STACK        -->
 <!-- ========================= -->
 
 <h2 align="center">⚡ TECH STACK ⚡</h2>
@@ -223,9 +209,7 @@ Every project is an opportunity to learn something new, solve a problem and beco
 <br>
 
 <!-- ========================= -->
-
-<!--      CONTRIBUTION GRAPH   -->
-
+<!--     CONTRIBUTION GRAPH    -->
 <!-- ========================= -->
 
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2>
@@ -249,71 +233,48 @@ width="100%"> </picture>
 <br>
 
 <!-- ========================= -->
-
 <!--       GITHUB STATS        -->
-
 <!-- ========================= -->
 
 <h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&hide_border=true&bg_color=050b12&title_color=ff2020&text_color=ffffff&icon_color=ff2020&include_all_commits=true&count_private=true"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&hide_border=true&bg_color=050b12&title_color=ff2020&text_color=ffffff&langs_count=8"
-height="180"
-/>
-
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=roshangowdas&show_icons=true&hide_border=true&bg_color=050b12&title_color=ff2020&text_color=ffffff&icon_color=ff2020&include_all_commits=true&count_private=true" alt="Roshan's Github Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshangowdas&layout=compact&hide_border=true&bg_color=050b12&title_color=ff2020&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  </p>
 </div>
 
 <br>
 
 <!-- ========================= -->
-
-<!--       STREAK STATS        -->
-
+<!--        STREAK STATS       -->
 <!-- ========================= -->
 
 <h2 align="center">🔥 GITHUB STREAK</h2>
 
 <div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=roshangowdas&theme=dark&hide_border=true&background=050b12&ring=ff2020&fire=ff2020&currStreakLabel=ff2020"
-width="70%"
-/>
-
+  <img src="https://streak-stats.demolab.com?user=roshangowdas&theme=dark&hide_border=true&background=050b12&ring=ff2020&fire=ff2020&currStreakLabel=ff2020" alt="GitHub Streak" width="70%" />
 </div>
 
 <br>
 
 <!-- ========================= -->
-
 <!--      ACTIVITY GRAPH       -->
-
 <!-- ========================= -->
 
 <h2 align="center">📈 CODING ACTIVITY</h2>
 
 <div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&bg_color=050b12&color=ffffff&line=ff2020&point=ffffff&area=true&hide_border=true"
-width="100%"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshangowdas&bg_color=050b12&color=ffffff&line=ff2020&point=ffffff&area=true&hide_border=true" alt="Coding Activity Graph" width="100%" />
 </div>
 
 <br>
 
 <!-- ========================= -->
-
-<!--      FEATURED PROJECTS    -->
-
+<!--     FEATURED PROJECTS     -->
 <!-- ========================= -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
@@ -389,9 +350,7 @@ Building practical AI-powered applications by combining modern web technologies 
 <br>
 
 <!-- ========================= -->
-
 <!--       CURRENT FOCUS       -->
-
 <!-- ========================= -->
 
 <h2 align="center">🎯 CURRENTLY FOCUSING ON</h2>
@@ -409,9 +368,7 @@ Building practical AI-powered applications by combining modern web technologies 
 <br><br>
 
 <!-- ========================= -->
-
-<!--          FOOTER            -->
-
+<!--          FOOTER           -->
 <!-- ========================= -->
 
 <div align="center">
