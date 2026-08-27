@@ -30,7 +30,7 @@
       Currently, I'm focusing my energy on database design to deployment, and leveraging AI developer tools (Google AI Studio, Gemini API) to accelerate delivery. My technical playground revolves around React, Node.js, local AI deployments, and building open-source npm packages!
     </td>
     <td width="30%" align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="160" />
+      <img src="./tech-animation.svg" alt="Animated Neon Terminal" width="220" />
     </td>
   </tr>
 </table>
