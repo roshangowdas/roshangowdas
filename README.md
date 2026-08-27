@@ -6,13 +6,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/"><img src="https://img.shields.io/badge/LinkedIn-%23090914.svg?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/~roshan__gowda"><img src="https://img.shields.io/badge/NPM-%23090914.svg?style=for-the-badge&logo=npm&logoColor=ff007f" alt="NPM"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/roshangowda/"><img src="https://img.shields.io/badge/LeetCode-%23090914.svg?style=for-the-badge&logo=LeetCode&logoColor=ffaa00" alt="LeetCode"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:0243roshan@gmail.com"><img src="https://img.shields.io/badge/0243roshan-%23090914.svg?style=for-the-badge&logo=Gmail&logoColor=00e5ff" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/"><img src="https://img.shields.io/badge/LinkedIn-%23090914.svg?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.npmjs.com/~roshan__gowda"><img src="https://img.shields.io/badge/NPM-%23090914.svg?style=for-the-badge&logo=npm&logoColor=ff007f" alt="NPM"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/roshangowda/"><img src="https://img.shields.io/badge/LeetCode-%23090914.svg?style=for-the-badge&logo=LeetCode&logoColor=ffaa00" alt="LeetCode"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:0243roshan@gmail.com"><img src="https://img.shields.io/badge/0243roshan-%23090914.svg?style=for-the-badge&logo=Gmail&logoColor=00e5ff" alt="Email"></a>
 </div>
 
 <br/>
@@ -155,7 +149,15 @@
   </tr>
 </table>
 
+---
 
+<h2 align="center"> 🐍 Contribution Graph </h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-custom.svg" alt="Snake animation">
+</p>
+
+---
 
 ## 📊 GitHub Stats
 <div align="center">
