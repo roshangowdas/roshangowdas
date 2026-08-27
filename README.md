@@ -132,29 +132,22 @@ Information Science undergraduate specializing in full-stack MERN development. P
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="4">
       <sub>TOOLS & AI</sub><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="VS Code"><br>
       <b>VS CODE</b><br>
       <sub>IDE & Developer Extensions</sub>
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Contribution Graph (Snake Effect)
+<h2 align="center"> 🐍 Contribution Graph </h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-custom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-custom.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-custom.svg">
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-custom.svg" alt="Snake animation">
+</p>
 
 ---
 
