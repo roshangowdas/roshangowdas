@@ -1,14 +1,22 @@
 <div align="center">
   <img src="./poster.png" alt="Header Poster" width="100%" style="border-radius: 10px;" />
-  
+</div>
+
+<br/>
 <br/>
 
-<div align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/"><img src="https://img.shields.io/badge/LinkedIn-%23090914.svg?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.npmjs.com/~roshan__gowda"><img src="https://img.shields.io/badge/NPM-%23090914.svg?style=for-the-badge&logo=npm&logoColor=ff007f" alt="NPM"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/roshangowda/"><img src="https://img.shields.io/badge/LeetCode-%23090914.svg?style=for-the-badge&logo=LeetCode&logoColor=ffaa00" alt="LeetCode"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:0243roshan@gmail.com"><img src="https://img.shields.io/badge/0243roshan-%23090914.svg?style=for-the-badge&logo=Gmail&logoColor=00e5ff" alt="Email"></a>
 </div>
+
+<br/>
+<br/>
 
 ### ❯ Hey there! I'm Roshan 👋
 
@@ -22,7 +30,7 @@
       Currently, I'm focusing my energy on database design to deployment, and leveraging AI developer tools (Google AI Studio, Gemini API) to accelerate delivery. My technical playground revolves around React, Node.js, local AI deployments, and building open-source npm packages!
     </td>
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="120" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" alt="Coding Animation" width="160" />
     </td>
   </tr>
 </table>
