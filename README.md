@@ -151,14 +151,6 @@
 
 ---
 
-<h2 align="center"> 🐍 Contribution Graph </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-custom.svg" alt="Snake animation">
-</p>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=roshangowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" /><br/>
