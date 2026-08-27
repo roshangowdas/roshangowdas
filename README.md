@@ -16,11 +16,11 @@ Information Science undergraduate specializing in full-stack MERN development. P
 <br/>
 
 📫 **Connect with me:**<br/>
-<a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.npmjs.com/~roshan__gowda"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
-<a href="https://leetcode.com/u/roshangowda/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:0243roshan@gmail.com"><img src="https://img.shields.io/badge/0243roshan-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-<a href="mailto:roshan994562@gmail.com"><img src="https://img.shields.io/badge/roshan994562-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/"><img src="https://img.shields.io/badge/LinkedIn-%23090914.svg?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a>
+<a href="https://www.npmjs.com/~roshan__gowda"><img src="https://img.shields.io/badge/NPM-%23090914.svg?style=for-the-badge&logo=npm&logoColor=ff007f" alt="NPM"></a>
+<a href="https://leetcode.com/u/roshangowda/"><img src="https://img.shields.io/badge/LeetCode-%23090914.svg?style=for-the-badge&logo=LeetCode&logoColor=ffaa00" alt="LeetCode"></a>
+<a href="mailto:0243roshan@gmail.com"><img src="https://img.shields.io/badge/0243roshan-%23090914.svg?style=for-the-badge&logo=Gmail&logoColor=00e5ff" alt="Email"></a>
+<a href="mailto:roshan994562@gmail.com"><img src="https://img.shields.io/badge/roshan994562-%23090914.svg?style=for-the-badge&logo=Gmail&logoColor=ff007f" alt="Email"></a>
 
 ---
 
@@ -142,35 +142,13 @@ Information Science undergraduate specializing in full-stack MERN development. P
   </tr>
 </table>
 
----
 
-<h2 align="center"> 🐍 Contribution Graph </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roshangowdas/roshangowdas/output/github-contribution-grid-snake-custom.svg" alt="Snake animation">
-</p>
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=roshangowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" /><br/>
   <img src="https://streak-stats.demolab.com/?user=roshangowda&theme=radical&hide_border=false" alt="Streak" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=roshangowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshangowda&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
----
-
-## 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=roshangowda&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ---
@@ -184,6 +162,6 @@ Information Science undergraduate specializing in full-stack MERN development. P
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=roshangowda&icon=0&color=0" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=roshangowda&icon=0&color=090914&label_color=090914&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
