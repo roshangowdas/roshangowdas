@@ -15,7 +15,12 @@ Information Science undergraduate specializing in full-stack MERN development. P
 
 <br/>
 
-📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/your-linkedin) | [Email](mailto:your-email@example.com)
+📫 **Connect with me:**<br/>
+<a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.npmjs.com/~roshan__gowda"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
+<a href="https://leetcode.com/u/roshangowda/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
+<a href="mailto:0243roshan@gmail.com"><img src="https://img.shields.io/badge/0243roshan-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:roshan994562@gmail.com"><img src="https://img.shields.io/badge/roshan994562-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 
 ---
 
