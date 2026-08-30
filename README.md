@@ -154,7 +154,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=roshangowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=roshangowda&theme=radical&hide_border=false" alt="Streak" /><br/>
+  
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=roshangowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </div>
 
