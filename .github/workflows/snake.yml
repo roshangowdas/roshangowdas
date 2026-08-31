@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake SVG
-        uses: Platane/svg-snak@v3
+        uses: Platane/snk@v3
         id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
