@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="70%">
-      <b>Information Science Undergraduate & Full-Stack MERN Developer</b>
+      <b>Information Science undergraduate specializing in full-stack MERN development.</b>
       <br><br>
       I am deeply passionate about crafting high-performance web applications and building multi-user platforms end-to-end.
       <br><br>
