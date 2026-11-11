@@ -58,29 +58,34 @@
 <h3 align="center">⚙️ Backend & Databases</h3>
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" /><br>
       <b>Node.js</b><br>
       <sub>Event-Driven Server Runtime</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://cdn.simpleicons.org/express/white" width="48" alt="Express" /><br>
       <b>Express.js</b><br>
       <sub>RESTful API Framework</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" /><br>
       <b>MongoDB</b><br>
       <sub>Document NoSQL Data Schemas</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" alt="SQL" /><br>
       <b>SQL & DBMS</b><br>
       <sub>Relational Schemas & Queries</sub>
     </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" alt="Supabase" /><br>
+      <b>Supabase</b><br>
+      <sub>Open Source Firebase Alternative</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center" colspan="4">
+    <td align="center" colspan="5">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" alt="Firebase" /><br>
       <b>Firebase</b><br>
       <sub>Auth & Firestore Cloud Database</sub>
