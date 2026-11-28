@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="./poster.png" alt="Header Poster" width="100%" style="border-radius: 10px;" />
 </div>
@@ -196,7 +197,7 @@
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
+  <a href="https://roshangowda-s.vercel.app/">
     <img src="https://komarev.com/ghpvc/?username=roshangowda&icon=0&color=090914&label_color=090914&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
