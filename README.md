@@ -7,7 +7,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/"><img src="https://img.shields.io/badge/LinkedIn-%23090914.svg?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.npmjs.com/~roshan__gowda"><img src="https://img.shields.io/badge/NPM-%23090914.svg?style=for-the-badge&logo=npm&logoColor=ff007f" alt="NPM"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/roshangowda/"><img src="https://img.shields.io/badge/LeetCode-%23090914.svg?style=for-the-badge&logo=LeetCode&logoColor=ffaa00" alt="LeetCode"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:0243roshan@gmail.com"><img src="https://img.shields.io/badge/0243roshan-%23090914.svg?style=for-the-badge&logo=Gmail&logoColor=00e5ff" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/roshan-gowda-s-378343283/"><img src="https://img.shields.io/badge/LinkedIn-%23090914.svg?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~roshan__gowda"><img src="https://img.shields.io/badge/NPM-%23090914.svg?style=for-the-badge&logo=npm&logoColor=ff007f" alt="NPM"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/roshangowda/"><img src="https://img.shields.io/badge/LeetCode-%23090914.svg?style=for-the-badge&logo=leetcode&logoColor=ffaa00" alt="LeetCode"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:0243roshan@gmail.com"><img src="https://img.shields.io/badge/0243ROSHAN-%23090914.svg?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/roshan__gowda/"><img src="https://img.shields.io/badge/Instagram-%23090914.svg?style=for-the-badge&logo=instagram&logoColor=ff007f" alt="Instagram"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://roshangowda-s.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23090914.svg?style=for-the-badge&logo=vercel&logoColor=00e5ff" alt="Portfolio"></a>
 </div>
 
 <br/>
@@ -56,6 +61,7 @@
 </table>
 
 <br>
+
 <h3 align="center">⚙️ Backend & Databases</h3>
 <table align="center">
   <tr>
@@ -95,6 +101,7 @@
 </table>
 
 <br>
+
 <h3 align="center">💻 Core Languages</h3>
 <table align="center">
   <tr>
@@ -122,6 +129,7 @@
 </table>
 
 <br>
+
 <h3 align="center">🧠 Developer Tools & AI</h3>
 <table align="center">
   <tr>
@@ -190,6 +198,7 @@
 ---
 
 ## ✍️ Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
